@@ -1,0 +1,9 @@
+name: zaiiblog
+version: 1
+
+libraries:
+- name: "django"
+  version: "1.8.3"
+  
+- name: "makedown"
+  version: "2.6.2"
