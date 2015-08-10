@@ -1,0 +1,2 @@
+# ziiblog
+my django test
